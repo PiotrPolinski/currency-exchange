@@ -1,0 +1,39 @@
+.form {
+    margin: 20px;
+}
+
+.form__header {
+    color: teal;
+    text-align: center;
+    padding: 20px;
+}
+
+.form__fieldset {
+    border: 5px solid #5198a8;
+}
+
+.form__field {
+    padding: 14px;
+    width: 100%;
+    border-radius: 20px;
+    border: 5px solid #5198a8;
+}
+
+.form__result {
+    display: block;
+    margin-top: 20px;
+    padding: 25px;
+    font-size: 20px;
+    color: teal;
+}
+
+.form__footer {
+    border: #5198a8 5px solid;
+    max-width: 500px;
+    text-align: center;
+    margin: 20px;
+}
+
+.form__footer--specialWords {
+    font-size: 10px;
+}
