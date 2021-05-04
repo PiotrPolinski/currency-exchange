@@ -1,9 +1,9 @@
 # Currency Exchange 
 
-## Preview
+## Demo version
 [Currency Exchange](https://piotrpolinski.github.io/currency-exchange/)
 
-## Used Techonology 
+## Used technologies : 
 - HTML
 - CSS
 - BEM
