@@ -34,7 +34,6 @@
 
     const amountElement = document.querySelector(".js-myAmount");
     const currencyElement = document.querySelector(".js-wantedCurrency");
-    const resultElement = document.querySelector(".js-finalResult");
 
     const amount = +amountElement.value;
     const currency = currencyElement.value;
